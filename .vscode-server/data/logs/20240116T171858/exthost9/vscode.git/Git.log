@@ -1,0 +1,38 @@
+2024-01-17 02:50:13.995 [info] Log level: Info
+2024-01-17 02:50:13.995 [info] Validating found git in: "git"
+2024-01-17 02:50:13.995 [info] Using git "2.34.1" from "git"
+2024-01-17 02:50:13.995 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-17 02:50:13.995 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-01-17 02:50:13.995 [info] Open repository: /home/s4tankoua/S6-PROJECTS
+2024-01-17 02:50:13.995 [info] > git config --get commit.template [8ms]
+2024-01-17 02:50:13.995 [info] > git rev-parse --show-toplevel [5ms]
+2024-01-17 02:50:13.995 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-01-17 02:50:13.995 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-17 02:50:13.995 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-17 02:50:13.995 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-17 02:50:13.995 [info] > git status -z -uall [34ms]
+2024-01-17 02:50:13.995 [info] > git config --get commit.template [8ms]
+2024-01-17 02:50:13.996 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-17 02:50:13.996 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-17 02:50:13.996 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-17 02:50:13.996 [info] > git fetch [172ms]
+2024-01-17 02:50:13.996 [info] > git status -z -uall [40ms] (cancelled)
+2024-01-17 02:50:13.996 [info] > git config --get commit.template [7ms]
+2024-01-17 02:50:13.996 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-17 02:50:13.996 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-17 02:50:13.996 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-17 02:50:13.996 [info] > git status -z -uall [37ms]
+2024-01-17 02:50:14.694 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-17 02:50:14.914 [info] > git show --textconv :EspressoShop-application/CHARTS/expresso-shop-catalog/templates/hpa.yaml [11ms]
+2024-01-17 02:50:14.928 [info] > git ls-files --stage -- /home/s4tankoua/S6-PROJECTS/EspressoShop-application/CHARTS/expresso-shop-catalog/templates/hpa.yaml [16ms]
+2024-01-17 02:50:14.937 [info] > git cat-file -s 297fb2062a18f1a1006b82d42b0ac0ca446aebd8 [2ms]
+2024-01-17 02:50:15.662 [info] > git config --get commit.template [9ms]
+2024-01-17 02:50:15.663 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-17 02:50:15.668 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-17 02:50:15.670 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-17 02:50:15.723 [info] > git status -z -uall [47ms]
+2024-01-17 02:50:16.013 [info] > git check-ignore -v -z --stdin [5ms]
+2024-01-17 02:50:16.066 [info] > git ls-files --stage -- /home/s4tankoua/S6-PROJECTS/EspressoShop-application/CHARTS/expresso-shop-catalog/templates/hpa.yaml [2ms]
+2024-01-17 02:50:16.078 [info] > git cat-file -s 297fb2062a18f1a1006b82d42b0ac0ca446aebd8 [6ms]
+2024-01-17 02:50:16.176 [info] > git show --textconv :EspressoShop-application/CHARTS/expresso-shop-catalog/templates/hpa.yaml [3ms]
+2024-01-17 02:50:16.522 [info] > git check-ignore -v -z --stdin [1ms]

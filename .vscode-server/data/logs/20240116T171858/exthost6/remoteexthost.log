@@ -1,0 +1,12 @@
+2024-01-16 22:26:13.719 [info] Extension host with pid 1423144 started
+2024-01-16 22:26:13.746 [info] Lock '/home/s4tankoua/.vscode-server/data/User/workspaceStorage/68b49d5d1f77c3d0cfcb8005db53e016/vscode.lock': Lock acquired.
+2024-01-16 22:26:13.864 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-16 22:26:14.022 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-16 22:26:14.023 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-16 22:26:14.325 [info] Eager extensions activated
+2024-01-16 22:26:14.325 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-16 22:26:14.326 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-16 22:26:31.117 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-16 22:27:05.028 [info] Extension host terminating: received terminate message from renderer
+2024-01-16 22:27:05.029 [info] Lock '/home/s4tankoua/.vscode-server/data/User/workspaceStorage/68b49d5d1f77c3d0cfcb8005db53e016/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-01-16 22:27:05.051 [info] Extension host with pid 1423144 exiting with code 0

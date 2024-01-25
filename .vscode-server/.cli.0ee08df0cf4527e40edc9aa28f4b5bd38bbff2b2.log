@@ -1,0 +1,4 @@
+Listening on 127.0.0.1:37601
+[2024-01-16 22:35:28] info Disposed of connection to running server.
+looking for token a7ccfcfed20c, got Some("a7ccfcfed20c")
+[2024-01-16 22:37:40] info Disposed of connection to running server.

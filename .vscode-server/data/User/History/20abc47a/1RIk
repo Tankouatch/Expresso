@@ -1,0 +1,8 @@
+- deployment
+- service
+- hpa
+- service account
+- pdb
+- secret
+- configmap
+- ingress

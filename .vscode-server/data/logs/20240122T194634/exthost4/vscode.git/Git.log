@@ -1,0 +1,145 @@
+2024-01-23 00:55:21.530 [info] Log level: Info
+2024-01-23 00:55:21.530 [info] Validating found git in: "git"
+2024-01-23 00:55:21.530 [info] Using git "2.34.1" from "git"
+2024-01-23 00:55:21.530 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-23 00:55:21.530 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-23 00:55:21.530 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-23 00:55:21.530 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-01-23 00:55:21.530 [info] Open repository: /home/s4tankoua/espresso/S6-PROJECTS
+2024-01-23 00:55:21.530 [info] > git config --get commit.template [10ms]
+2024-01-23 00:55:21.530 [info] > git rev-parse --show-toplevel [5ms]
+2024-01-23 00:55:21.530 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-23 00:55:21.530 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-01-23 00:55:21.530 [info] > git rev-parse --show-toplevel [4ms]
+2024-01-23 00:55:21.530 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-23 00:55:21.530 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 00:55:21.530 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-23 00:55:21.530 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-23 00:55:21.530 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2024-01-23 00:55:21.539 [info] > git status -z -uall [10ms]
+2024-01-23 00:55:21.565 [info] > git rev-parse --show-toplevel [28ms]
+2024-01-23 00:55:21.565 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-23 00:55:21.640 [info] > git config --get commit.template [75ms]
+2024-01-23 00:55:21.642 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-23 00:55:21.642 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-23 00:55:21.692 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [39ms]
+2024-01-23 00:55:21.705 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 00:55:21.709 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-01-23 00:55:21.721 [info] > git status -z -uall [6ms]
+2024-01-23 00:55:22.221 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-23 02:59:37.405 [info] > git fetch [162ms]
+2024-01-23 02:59:37.420 [info] > git config --get commit.template [7ms]
+2024-01-23 02:59:37.421 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 02:59:37.427 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 02:59:37.428 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-23 02:59:37.439 [info] > git status -z -uall [5ms]
+2024-01-23 02:59:38.618 [info] > git config --get commit.template [9ms]
+2024-01-23 02:59:38.618 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 02:59:38.624 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 02:59:38.628 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-01-23 02:59:38.642 [info] > git status -z -uall [4ms]
+2024-01-23 03:26:00.669 [info] > git fetch [147ms]
+2024-01-23 03:26:00.683 [info] > git config --get commit.template [6ms]
+2024-01-23 03:26:00.684 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-23 03:26:00.689 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 03:26:00.691 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 03:26:00.706 [info] > git status -z -uall [7ms]
+2024-01-23 03:26:04.673 [info] > git config --get commit.template [8ms]
+2024-01-23 03:26:04.674 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 03:26:04.680 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 03:26:04.681 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 03:26:04.690 [info] > git status -z -uall [4ms]
+2024-01-23 03:36:09.851 [info] > git fetch [156ms]
+2024-01-23 03:36:09.866 [info] > git config --get commit.template [8ms]
+2024-01-23 03:36:09.867 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 03:36:09.873 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 03:36:09.875 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-23 03:36:09.884 [info] > git status -z -uall [4ms]
+2024-01-23 03:36:15.048 [info] > git config --get commit.template [8ms]
+2024-01-23 03:36:15.049 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 03:36:15.056 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 03:36:15.058 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 03:36:15.069 [info] > git status -z -uall [5ms]
+2024-01-23 03:51:31.141 [info] > git fetch [173ms]
+2024-01-23 03:51:31.156 [info] > git config --get commit.template [7ms]
+2024-01-23 03:51:31.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 03:51:31.161 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 03:51:31.162 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-23 03:51:31.175 [info] > git status -z -uall [4ms]
+2024-01-23 03:54:24.263 [info] > git config --get commit.template [7ms]
+2024-01-23 03:54:24.265 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-23 03:54:24.272 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 03:54:24.273 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-23 03:54:24.284 [info] > git status -z -uall [4ms]
+2024-01-23 03:54:31.349 [info] > git fetch [156ms]
+2024-01-23 03:54:31.369 [info] > git config --get commit.template [9ms]
+2024-01-23 03:54:31.370 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-23 03:54:31.376 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 03:54:31.377 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-23 03:54:31.387 [info] > git status -z -uall [4ms]
+2024-01-23 03:54:32.545 [info] > git config --get commit.template [10ms]
+2024-01-23 03:54:32.545 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-23 03:54:32.551 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 03:54:32.552 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-23 03:54:32.561 [info] > git status -z -uall [4ms]
+2024-01-23 03:59:21.503 [info] > git fetch [262ms]
+2024-01-23 03:59:21.521 [info] > git config --get commit.template [8ms]
+2024-01-23 03:59:21.523 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 03:59:21.533 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 03:59:21.535 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 03:59:21.551 [info] > git status -z -uall [7ms]
+2024-01-23 04:03:17.664 [info] > git config --get commit.template [10ms]
+2024-01-23 04:03:17.665 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-01-23 04:03:17.675 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 04:03:17.677 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 04:03:17.691 [info] > git status -z -uall [5ms]
+2024-01-23 04:03:17.841 [info] > git fetch [194ms]
+2024-01-23 04:03:17.856 [info] > git config --get commit.template [8ms]
+2024-01-23 04:03:17.858 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-23 04:03:17.863 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 04:03:17.865 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 04:03:17.875 [info] > git status -z -uall [4ms]
+2024-01-23 04:15:42.220 [info] > git config --get commit.template [10ms]
+2024-01-23 04:15:42.221 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-23 04:15:42.228 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 04:15:42.230 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 04:15:42.242 [info] > git status -z -uall [5ms]
+2024-01-23 04:15:42.384 [info] > git fetch [183ms]
+2024-01-23 04:15:42.402 [info] > git config --get commit.template [8ms]
+2024-01-23 04:15:42.403 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 04:15:42.409 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 04:15:42.410 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 04:15:42.421 [info] > git status -z -uall [3ms]
+2024-01-23 04:15:47.266 [info] > git config --get commit.template [7ms]
+2024-01-23 04:15:47.267 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 04:15:47.273 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 04:15:47.275 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 04:15:47.289 [info] > git status -z -uall [8ms]
+2024-01-23 04:17:12.412 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-23 04:17:12.412 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-23 04:17:36.952 [info] > git rev-parse --show-toplevel [6ms]
+2024-01-23 04:17:36.952 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-23 04:17:49.982 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-23 04:17:49.983 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-23 04:18:42.690 [info] > git fetch [247ms]
+2024-01-23 04:18:42.720 [info] > git config --get commit.template [14ms]
+2024-01-23 04:18:42.723 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-01-23 04:18:42.735 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 04:18:42.739 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-01-23 04:18:42.758 [info] > git status -z -uall [7ms]
+2024-01-23 04:18:43.885 [info] > git config --get commit.template [22ms]
+2024-01-23 04:18:43.893 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-01-23 04:18:43.904 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 04:18:43.909 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-01-23 04:18:43.934 [info] > git status -z -uall [11ms]
+2024-01-23 04:21:43.022 [info] > git fetch [216ms]
+2024-01-23 04:21:43.038 [info] > git config --get commit.template [7ms]
+2024-01-23 04:21:43.039 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-01-23 04:21:43.045 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 04:21:43.047 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 04:21:43.058 [info] > git status -z -uall [3ms]
+2024-01-23 04:21:44.244 [info] > git config --get commit.template [6ms]
+2024-01-23 04:21:44.245 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-23 04:21:44.250 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/espresso/S6-PROJECTS/.git/refs/remotes/origin/main'
+2024-01-23 04:21:44.252 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-23 04:21:44.264 [info] > git status -z -uall [5ms]
