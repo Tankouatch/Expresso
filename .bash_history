@@ -22,3 +22,4 @@ l
 docker exec -it s4tankoua
 docker exec -it s4tankoua bash
 docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash

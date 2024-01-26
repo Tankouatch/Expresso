@@ -87,3 +87,21 @@ and the repository exists.
 2024-01-26 04:23:08.148 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/Expresso/.git/refs/remotes/origin/main'
 2024-01-26 04:23:08.149 [info] > git rev-parse refs/remotes/origin/main [1ms]
 2024-01-26 04:23:08.158 [info] > git status -z -uall [3ms]
+2024-01-26 04:25:40.904 [info] > git config --get commit.template [7ms]
+2024-01-26 04:25:40.905 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-26 04:25:40.910 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/Expresso/.git/refs/remotes/origin/main'
+2024-01-26 04:25:40.912 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-26 04:25:40.919 [info] > git status -z -uall [2ms]
+2024-01-26 04:26:08.262 [info] > git fetch [92ms]
+2024-01-26 04:26:08.262 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-01-26 04:26:08.276 [info] > git config --get commit.template [6ms]
+2024-01-26 04:26:08.277 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-26 04:26:08.283 [warning] ENOENT: no such file or directory, open '/home/s4tankoua/Expresso/.git/refs/remotes/origin/main'
+2024-01-26 04:26:08.285 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-26 04:26:08.296 [info] > git status -z -uall [5ms]
