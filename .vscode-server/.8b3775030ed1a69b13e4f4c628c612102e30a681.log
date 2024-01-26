@@ -1,0 +1,223 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:46307 (IPv4)
+Extension host agent listening on 46307
+
+[04:12:09] 
+
+
+
+
+[04:12:10] Extension host agent started.
+[04:12:10] Started initializing default profile extensions in extensions installation folder. file:///home/s4tankoua/.vscode-server/extensions
+[04:12:10] [127.0.0.1][e7e1300d][ManagementConnection] New connection established.
+[04:12:10] [127.0.0.1][d1f34c15][ExtensionHostConnection] New connection established.
+[04:12:11] Completed initializing default profile extensions in extensions installation folder. file:///home/s4tankoua/.vscode-server/extensions
+[04:12:20] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+[04:12:20] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:20] [127.0.0.1][d1f34c15][ExtensionHostConnection] <189356> Launched Extension Host Process.
+[04:12:21] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:22] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:25] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+Got delay-shutdown request while in shutdown timeout, delaying
+[04:12:30] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[04:12:30] Cancelling previous shutdown timeout
+[04:12:31] [127.0.0.1][399c4684][ManagementConnection] New connection established.
+[04:12:31] [127.0.0.1][40af8f7d][ExtensionHostConnection] New connection established.
+[04:12:31] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:31] [127.0.0.1][40af8f7d][ExtensionHostConnection] <189730> Launched Extension Host Process.
+[04:12:31] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:31] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:31] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:33] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:33] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:33] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:33] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:33] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:35] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:12:35] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:13:01] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:13:01] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:13:58] [127.0.0.1][e7e1300d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:13:59] [127.0.0.1][d1f34c15][ExtensionHostConnection] <189356> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[04:13:59] Cancelling previous shutdown timeout
+[04:14:04] [127.0.0.1][6d254b89][ManagementConnection] New connection established.
+[04:14:04] [127.0.0.1][b6bdd0a2][ExtensionHostConnection] New connection established.
+[04:14:04] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:14:04] [127.0.0.1][b6bdd0a2][ExtensionHostConnection] <192468> Launched Extension Host Process.
+[04:14:04] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:14:04] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:14:05] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:43:32377)
+    at A.updateTitle (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:43:27509)
+    at T.<computed> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:43:22735)
+    at Object.call (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at g.s (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at g.q (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at i.y (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at i.fire (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ce (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:25:10117)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[04:14:07] Error [CodeExpectedError]: Could not find pty on pty host
+    at A.U (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:43:32377)
+    at A.updateTitle (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:43:27509)
+    at T.<computed> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:43:22735)
+    at Object.call (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at g.s (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at g.q (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at i.y (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at i.fire (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ce (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:25:10117)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[04:14:07] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:14:07] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:14:07] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:14:07] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:15:11] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:15:12] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:15:28] [127.0.0.1][399c4684][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:15:28] [127.0.0.1][40af8f7d][ExtensionHostConnection] <189730> Extension Host Process exited with code: 0, signal: null.
+[04:15:42] ptyHost was unable to resolve shell environment Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[04:15:43] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Error: Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+    at Timeout.<anonymous> (/home/s4tankoua/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/server/node/server.main.js:113:2520)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
