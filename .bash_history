@@ -24,3 +24,17 @@ docker exec -it s4tankoua bash
 docker exec -it s4tankoua bash
 docker exec -it s4tankoua bash
 docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+exit
+ls
+docker exec -it espresso bash
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+ls
+cd espresso/
+ls
+ls
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
