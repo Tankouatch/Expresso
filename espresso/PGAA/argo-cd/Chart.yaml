@@ -1,32 +1,31 @@
 annotations:
-  category: Infrastructure
+  artifacthub.io/changes: |
+    - kind: fixed
+      description: Restart argocd-server when argocd-cm CM is updated
+  artifacthub.io/signKey: |
+    fingerprint: 2B8F22F57260EFA67BE1C5824B11F800CD9D2252
+    url: https://argoproj.github.io/argo-helm/pgp_keys.asc
 apiVersion: v2
-appVersion: 2.3.3
+appVersion: v2.9.5
 dependencies:
-- condition: redis.enabled
-  name: redis
-  repository: https://charts.bitnami.com/bitnami
-  version: 16.x.x
-- name: common
-  repository: https://charts.bitnami.com/bitnami
-  tags:
-  - bitnami-common
-  version: 1.x.x
-description: Argo CD is a continuous delivery tool for Kubernetes based on GitOps.
-home: https://argoproj.github.io/argo-cd/
-icon: https://bitnami.com/assets/stacks/argo-cd/img/argo-cd-stack-220x234.png
+- condition: redis-ha.enabled
+  name: redis-ha
+  repository: https://dandydeveloper.github.io/charts/
+  version: 4.23.0
+description: A Helm chart for Argo CD, a declarative, GitOps continuous delivery tool
+  for Kubernetes.
+home: https://github.com/argoproj/argo-helm
+icon: https://argo-cd.readthedocs.io/en/stable/assets/logo.png
 keywords:
-- Continuous delivery
-- Continuous deployment
-- Devops
-- Kubernetes
+- argoproj
+- argocd
+- gitops
+kubeVersion: '>=1.23.0-0'
 maintainers:
-- email: containers@bitnami.com
-  name: Bitnami
+- name: argoproj
+  url: https://argoproj.github.io/
 name: argo-cd
 sources:
-- https://github.com/bitnami/bitnami-docker-argo-cd
-- https://github.com/argoproj/argo-cd/
-- https://github.com/bitnami/bitnami-docker-dex
-- https://github.com/dexidp/dex
-version: 3.1.9
+- https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd
+- https://github.com/argoproj/argo-cd
+version: 5.53.10

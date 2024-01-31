@@ -38,3 +38,34 @@ docker exec -it s4tankoua bash
 docker exec -it s4tankoua bash
 docker exec -it s4tankoua bash
 docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+ls
+docker exec -it s4tankoua bash
+exit
+exit
+ls
+cd espresso/
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+ls
+ls
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+ls
+docker exec -it s4tankoua bash
+ls
+ls
+docker exec -it s4tankoua bash
+ls
+cd PGAA/
+ls
+kubens
+docker exec -it s4tankoua bash
+ls
+cd espresso/
+docker exec -it s4tankoua bach
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash

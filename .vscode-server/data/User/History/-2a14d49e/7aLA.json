@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.startupEditor": "none",
+    "yaml.schemas": {
+        "file:///c%3A/Users/rb_ta/.vscode/extensions/atlassian.atlascode-3.0.4/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "atlascode.showWelcomeOnInstall": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path.windows": "C:\\Users\\rb_ta\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+        "vscode-kubernetes.helm-path.windows": "C:\\Users\\rb_ta\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.enableSmartCommit": true,
+    "workbench.editor.empty.hint": "hidden",
+    "remote.SSH.remotePlatform": {
+        "54.166.156.58": "linux",
+        "184.73.33.150": "linux",
+        "server3.anomicatech.com": "linux",
+        "server2.anomicatech.com": "linux"
+    },
+    "files.associations": {
+        "*.yml": "yaml"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "git.autofetch": true,
+    "[groovy]": {}
+}
