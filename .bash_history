@@ -69,3 +69,25 @@ cd espresso/
 docker exec -it s4tankoua bach
 docker exec -it s4tankoua bash
 docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+exit
+kubens
+exit
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+exit
+ls
+docke exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
+git pull --all
+git commit -m "Remove hidden files from repository"
+git add .gitignore
+git commit -m "Update .gitignore to ignore hidden files"
+git push
+git pull --all
+git pull origin main
+git push origin main
+git pull --rebase origin main
+git push --force-with-lease origin main
+docker exec -it s4tankoua bash

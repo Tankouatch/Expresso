@@ -1,0 +1,31 @@
+2024-02-01 19:56:34.307 [info] Log level: Info
+2024-02-01 19:56:34.307 [info] Validating found git in: "git"
+2024-02-01 19:56:34.308 [info] Using git "2.34.1" from "git"
+2024-02-01 19:56:34.308 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-01 19:56:34.308 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-01 19:56:34.308 [info] Open repository: /home/s4tankoua
+2024-02-01 19:56:34.309 [info] > git config --get commit.template [17ms]
+2024-02-01 19:56:34.309 [info] > git rev-parse --show-toplevel [13ms]
+2024-02-01 19:56:34.309 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-02-01 19:56:34.309 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-01 19:56:34.310 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2024-02-01 19:56:34.310 [info] Open repository: /home/s4tankoua/espresso/S6-PROJECTS
+2024-02-01 19:56:34.310 [info] > git rev-parse --show-toplevel [32ms]
+2024-02-01 19:56:34.311 [info] > git config --get commit.template [40ms]
+2024-02-01 19:56:34.311 [info] > git rev-parse --show-toplevel [11ms]
+2024-02-01 19:56:34.311 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-02-01 19:56:34.311 [info] > git rev-parse --show-toplevel [50ms]
+2024-02-01 19:56:34.311 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-01 19:56:34.327 [info] > git status -z -uall [21ms]
+2024-02-01 19:56:34.367 [info] > git rev-parse --show-toplevel [49ms]
+2024-02-01 19:56:34.377 [info] > git config --get commit.template [10ms]
+2024-02-01 19:56:34.401 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-02-01 19:56:34.425 [info] > git status -z -uall [12ms]
+2024-02-01 19:56:35.239 [info] > git check-ignore -v -z --stdin [5ms]
+2024-02-01 19:56:35.300 [info] > git status -z -uall [1193ms]
+2024-02-01 19:56:35.409 [info] > git config --get commit.template [12ms]
+2024-02-01 19:56:35.413 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-02-01 19:56:36.556 [info] > git status -z -uall [1132ms]
+2024-02-01 19:59:43.237 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-01 19:59:47.346 [info] > git check-ignore -v -z --stdin [7ms]
+2024-02-01 19:59:47.347 [info] > git check-ignore -v -z --stdin [2ms]

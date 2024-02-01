@@ -1,0 +1,25 @@
+2024-02-01 06:12:25.253 [info] Log level: Info
+2024-02-01 06:12:25.253 [info] Validating found git in: "git"
+2024-02-01 06:12:25.253 [info] Using git "2.34.1" from "git"
+2024-02-01 06:12:25.253 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-01 06:12:25.253 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-01 06:12:25.253 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-01 06:12:25.253 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-01 06:12:25.253 [info] Open repository: /home/s4tankoua/espresso/S6-PROJECTS
+2024-02-01 06:12:25.253 [info] > git config --get commit.template [7ms]
+2024-02-01 06:12:25.253 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-01 06:12:25.253 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-01 06:12:25.253 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-02-01 06:12:25.254 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-01 06:12:25.271 [info] > git status -z -uall [8ms]
+2024-02-01 06:12:25.393 [info] > git rev-parse --show-toplevel [124ms]
+2024-02-01 06:12:25.395 [info] > git config --get commit.template [3ms]
+2024-02-01 06:12:25.413 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-01 06:12:25.421 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-02-01 06:12:25.433 [info] > git status -z -uall [5ms]
+2024-02-01 06:12:25.765 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-01 06:13:56.784 [info] > git config --get commit.template [7ms]
+2024-02-01 06:13:56.785 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-01 06:13:56.794 [info] > git status -z -uall [3ms]
+2024-02-01 06:33:49.885 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-01 06:34:10.153 [info] > git rev-parse --show-toplevel [2ms]
