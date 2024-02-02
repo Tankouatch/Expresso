@@ -1,0 +1,174 @@
+2024-02-02 04:21:58.851 [info] 
+
+
+
+
+2024-02-02 04:21:58.877 [info] Extension host agent started.
+2024-02-02 04:21:59.072 [info] [127.0.0.1][89a7e347][ManagementConnection] New connection established.
+2024-02-02 04:21:59.116 [info] [127.0.0.1][9e454db0][ExtensionHostConnection] New connection established.
+2024-02-02 04:22:01.659 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-02 04:22:09.118 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.119 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.121 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.121 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.121 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.121 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.122 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.122 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.123 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.123 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:09.130 [info] [127.0.0.1][9e454db0][ExtensionHostConnection] <155475> Launched Extension Host Process.
+2024-02-02 04:22:10.993 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-02 04:22:11.005 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateIcon (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:27592)
+    at U.<computed> (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-02 04:22:18.220 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:18.650 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:21.615 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:22:21.883 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:34.804 [info] [127.0.0.1][89a7e347][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-02 04:23:34.837 [info] [127.0.0.1][9e454db0][ExtensionHostConnection] <155475> Extension Host Process exited with code: 0, signal: null.
+2024-02-02 04:23:34.837 [info] Cancelling previous shutdown timeout
+2024-02-02 04:23:34.837 [info] Last EH closed, waiting before shutting down
+2024-02-02 04:23:39.898 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-02-02 04:23:39.898 [info] Cancelling previous shutdown timeout
+2024-02-02 04:23:40.394 [info] [127.0.0.1][bc240a01][ManagementConnection] New connection established.
+2024-02-02 04:23:40.756 [info] [127.0.0.1][87f4f538][ExtensionHostConnection] New connection established.
+2024-02-02 04:23:40.756 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:40.763 [info] [127.0.0.1][87f4f538][ExtensionHostConnection] <156088> Launched Extension Host Process.
+2024-02-02 04:23:41.003 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:41.003 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:41.003 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:42.830 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:43.036 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:43.040 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:43.041 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:43.042 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:44.696 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:23:44.889 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:24:30.083 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:24:30.360 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 04:28:39.898 [info] New EH opened, aborting shutdown
+2024-02-02 04:58:55.569 [error] AggregateError
+    at internalConnectMultiple (node:net:1082:18)
+    at afterConnectMultiple (node:net:1533:5)
+2024-02-02 04:58:55.571 [error] AggregateError
+    at internalConnectMultiple (node:net:1082:18)
+    at afterConnectMultiple (node:net:1533:5)
+2024-02-02 04:58:55.806 [error] AggregateError
+    at internalConnectMultiple (node:net:1082:18)
+    at afterConnectMultiple (node:net:1533:5)
+2024-02-02 05:09:18.921 [error] AggregateError
+    at internalConnectMultiple (node:net:1082:18)
+    at afterConnectMultiple (node:net:1533:5)
+2024-02-02 05:09:18.938 [error] AggregateError
+    at internalConnectMultiple (node:net:1082:18)
+    at afterConnectMultiple (node:net:1533:5)
+2024-02-02 05:09:19.179 [error] AggregateError
+    at internalConnectMultiple (node:net:1082:18)
+    at afterConnectMultiple (node:net:1533:5)
+2024-02-02 05:27:12.240 [error] AggregateError
+    at internalConnectMultiple (node:net:1082:18)
+    at afterConnectMultiple (node:net:1533:5)
+2024-02-02 05:27:12.246 [error] AggregateError
+    at internalConnectMultiple (node:net:1082:18)
+    at afterConnectMultiple (node:net:1533:5)
+2024-02-02 05:27:12.473 [error] AggregateError
+    at internalConnectMultiple (node:net:1082:18)
+    at afterConnectMultiple (node:net:1533:5)
+2024-02-02 06:33:22.508 [info] [127.0.0.1][bc240a01][ManagementConnection] The client has reconnected.
+2024-02-02 06:33:22.579 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-02-02 06:33:23.585 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateIcon (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:27592)
+    at U.<computed> (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-02 06:33:23.586 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-02 06:33:23.586 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-02 06:33:24.602 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:32407)
+    at A.updateTitle (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:27539)
+    at U.<computed> (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:43:22765)
+    at Object.call (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at $.s (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at $.q (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at d.y (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at d.fire (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ne (/home/s4tankoua/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/out/vs/platform/terminal/node/ptyHostMain.js:25:10072)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-02 06:33:33.881 [info] [127.0.0.1][87f4f538][ExtensionHostConnection] The client has reconnected.

@@ -1,0 +1,16 @@
+{
+    "editor.guides.bracketPairs": "active",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "yaml.schemas": {
+        "file:///c%3A/Users/rb_ta/.vscode/extensions/atlassian.atlascode-3.0.9/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true,
+    "remote.SSH.remotePlatform": {
+        "server3.anomicatech.com": "linux"
+    },
+    "settingsSync.ignoredSettings": [
+        "remote.SSH.configFile"
+    ],
+    "remote.SSH.configFile": "C:\\Users\\rb_ta\\.ssh\\config",
+    "remote.SSH.connectTimeout": 30
+}

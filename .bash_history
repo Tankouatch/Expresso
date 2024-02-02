@@ -91,3 +91,8 @@ git push origin main
 git pull --rebase origin main
 git push --force-with-lease origin main
 docker exec -it s4tankoua bash
+ls
+cd PGAA/
+ls 
+docker exec -it s4tankoua bash
+docker exec -it s4tankoua bash
