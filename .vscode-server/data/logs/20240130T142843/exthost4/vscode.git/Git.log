@@ -1,4 +1,0 @@
-2024-01-30 14:50:30.779 [info] Log level: Info
-2024-01-30 14:50:30.779 [info] Validating found git in: "git"
-2024-01-30 14:50:30.780 [info] Using git "2.34.1" from "git"
-2024-01-30 14:50:30.780 [warning] Failed to get repository realpath for: "/home/s4tankoua/WORK_s6/CHARTS". Error: ENOENT: no such file or directory, realpath '/home/s4tankoua/WORK_s6/CHARTS'

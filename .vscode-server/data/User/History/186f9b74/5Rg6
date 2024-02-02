@@ -1,9 +1,0 @@
-.*
-!.gitignore
-!.gitlab-ci.yml
-git rm --cached -r .vscode
-git rm --cached -r .ssh
-git rm --cached -r .bshrc
-git rm --cached -r .history
-
-
